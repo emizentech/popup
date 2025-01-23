@@ -1,10 +1,6 @@
 var config = {
-	deps:[
-	'popup'
-	],
- paths: {
-     'popup': 'Emizentech_Popup/js/popup',
-     
- }
- 
+    deps: ['popup'],
+    paths: {
+        'popup': 'Emizentech_Popup/js/popup'
+    }
 };
